@@ -1,7 +1,15 @@
 # Retinal-Defect-Classification-using-CNN-from-OCT-images
 Contains code for Deep Learning model for Retinal OCT(optical coherence tomography) Images classiﬁcation which I did for my Machine Learning Project.
 
-<h2> Description </h2>
+<h2> Objective </h2>
+
+Given a new OCT image, determine whether the images belong to which 4 classes: CNV, DRUSEN, DME and NORMAL. We are using CNN for classification model.
+
+<h2> Results </h2>
+
+Accuracy of the model on test data is 96.88%
+
+<h2> Dataset Description </h2>
 
 The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (NORMAL,CNV,DME,DRUSEN). There are 84,495 X-Ray images (JPEG) and 4 categories (NORMAL,CNV,DME,DRUSEN).
 
