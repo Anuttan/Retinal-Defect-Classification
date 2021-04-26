@@ -1,4 +1,4 @@
-# Retinal-Defect-Classification-using-CNN-from-OCT-images
+# Retinal Defect Classifier powered by Deep Learning
 Contains code for Deep Learning model for Retinal OCT(optical coherence tomography) Images classiﬁcation which I did for my Machine Learning Project.
 
 <h2> Objective </h2>
