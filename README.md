@@ -1,5 +1,5 @@
 # Retinal Defect Classifier powered by Deep Learning
-Automated way to detect and claddify Retinal Diseases using Deep Learning
+Automated way to detect and classify Retinal Diseases using Deep Learning
 
 <h2> Objective </h2>
 
