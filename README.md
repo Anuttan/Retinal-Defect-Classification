@@ -1,5 +1,5 @@
 # Retinal Defect Classifier powered by Deep Learning
-Automated way to detect and classify Retinal Diseases using Deep Learning
+Automated way to detect and classify retinal diseases using Deep Learning (Convolutional Neural Network).
 ![sample-image](images/sample-output.png)
 
 <h2> Objective </h2>
@@ -14,6 +14,11 @@ Images are labeled as (disease)-(randomized patient ID)-(image number by this pa
 
 Optical coherence tomography (OCT) images (Spectralis OCT, Heidelberg Engineering, Germany) were selected from retrospective cohorts of adult patients from the Shiley Eye Institute of the University of California San Diego, the California Retinal Research Foundation, Medical Center Ophthalmology Associates, the Shanghai First People’s Hospital, and Beijing Tongren Eye Center between July 1, 2013 and March 1, 2017.
 
+<h2> Model Details <h2>
+
+A convolutional neural network was used with alternating 2D convolutions and max pooling layers.
+
+![model-image](images/model-visualized.png)
 
 <h2> Results </h2>
 
